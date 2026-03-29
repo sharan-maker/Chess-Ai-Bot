@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+data/lichess_2013.pgn
+data/states.npy
+data/values.npy
+model/chess_model.pt
